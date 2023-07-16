@@ -11,9 +11,9 @@ import { en, es, id, ar, pt } from './lib/idiomas/total-idiomas.js'
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a | Add the numbers to be Owner ⋅.━━━━ ⊰   
 
 global.owner = [
-['523316968621', 'Buitre-OFC ', true], 
+['34604135921', 'Buitre-OFC ', true], 
 ['523316968621', '𝙊𝙬𝙣𝙚𝙧 (1) 💻', true],  
-['5521989092076', '𝙊𝙬𝙣𝙚𝙧 (2) 💻', true]  
+['34604135921', '𝙊𝙬𝙣𝙚𝙧 (2) 💻', true]  
 ]
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
@@ -97,11 +97,11 @@ global.author = 'Buitre Bot'
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
 global.official = [ // Agregate si eres Owner
-['523316968621', 'Buitre Dios 💻', 1], 
+['34604135921', 'Buitre Dios 💻', 1], 
 ['523316968621', '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],  
-['523316968621', '𝗖𝗿𝗲𝗮𝗱𝗼𝗿 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],
-['523316968621', '𝗦𝘂𝗽𝗽𝗼𝗿𝘁 𝗢𝗳𝗶𝗰𝗶𝗮𝗹', 1],
-['523316968621', '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿𝗮 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1]] 
+['34604135921', '𝗖𝗿𝗲𝗮𝗱𝗼𝗿 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],
+['34604135921', '𝗦𝘂𝗽𝗽𝗼𝗿𝘁 𝗢𝗳𝗶𝗰𝗶𝗮𝗹', 1],
+['34604135921', '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿𝗮 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1]] 
 
 global.mail = '' //agrega tú correo
 global.desc = '' //Buitre BOT md ACTIVO!!
@@ -130,7 +130,7 @@ global.nnnttt3 = 'https://chat.whatsapp.com/JIz9Snzgt2X4TUDmTxlnRd' //Grupo 7 CO
 global.nnnttt4 = 'https://chat.whatsapp.com/JIz9Snzgt2X4TUDmTxlnRd' //Grupo 8 COL
 global.nnnttt5 = 'https://chat.whatsapp.com/JIz9Snzgt2X4TUDmTxlnRd' //Grupo 9 COL
 global.paypal = 'https://www.paypal.me/Buitre01'
-global.asistencia = 'http://Wa.me/523316968621' //Dudas? escríbeme...
+global.asistencia = 'http://Wa.me/34604135921' //Dudas? escríbeme...
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
