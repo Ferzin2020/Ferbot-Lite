@@ -118,17 +118,17 @@ global.ig = 'https://youtube.com/@iambuitre'
 global.md = 'https://github.com/Buitreofc/Buitre-BotLite-MD#readme'
 global.fb = 'https://www.facebook.com/profile.php?id=100091780073268'
 
-global.nna = 'https://chat.whatsapp.com/JIz9Snzgt2X4TUDmTxlnRd' //UPDATE GATABOT
-global.nna2 = 'https://chat.whatsapp.com/JIz9Snzgt2X4TUDmTxlnRd' //Help
-global.nn = 'https://chat.whatsapp.com/JIz9Snzgt2X4TUDmTxlnRd' //Grupo 1
-global.nnn = 'https://chat.whatsapp.com/JIz9Snzgt2X4TUDmTxlnRd' //Grupo 2
-global.nnnt = 'https://chat.whatsapp.com/JIz9Snzgt2X4TUDmTxlnRd' //Grupo 3
-global.nnntt = 'https://chat.whatsapp.com/JIz9Snzgt2X4TUDmTxlnRd' //Grupo 4
-global.nnnttt = 'https://chat.whatsapp.com/JIz9Snzgt2X4TUDmTxlnRd' //Grupo 5
-global.nnnttt2 = 'https://chat.whatsapp.com/JIz9Snzgt2X4TUDmTxlnRd' //Grupo 6 COL
-global.nnnttt3 = 'https://chat.whatsapp.com/JIz9Snzgt2X4TUDmTxlnRd' //Grupo 7 COL
-global.nnnttt4 = 'https://chat.whatsapp.com/JIz9Snzgt2X4TUDmTxlnRd' //Grupo 8 COL
-global.nnnttt5 = 'https://chat.whatsapp.com/JIz9Snzgt2X4TUDmTxlnRd' //Grupo 9 COL
+global.nna = 'https://chat.whatsapp.com/CmJj0wlJqAHCynm6eAHmAc' //UPDATE GATABOT
+global.nna2 = 'https://chat.whatsapp.com/CmJj0wlJqAHCynm6eAHmAc' //Help
+global.nn = 'https://chat.whatsapp.com/CmJj0wlJqAHCynm6eAHmAc' //Grupo 1
+global.nnn = 'https://chat.whatsapp.com/CmJj0wlJqAHCynm6eAHmAc' //Grupo 2
+global.nnnt = 'https://chat.whatsapp.com/CmJj0wlJqAHCynm6eAHmAc' //Grupo 3
+global.nnntt = https://chat.whatsapp.com/CmJj0wlJqAHCynm6eAHmAc' //Grupo 4
+global.nnnttt = 'https://chat.whatsapp.com/CmJj0wlJqAHCynm6eAHmAc' //Grupo 5
+global.nnnttt2 = 'https://chat.whatsapp.com/CmJj0wlJqAHCynm6eAHmAc' //Grupo 6 COL
+global.nnnttt3 = 'https://chat.whatsapp.com/CmJj0wlJqAHCynm6eAHmAc' //Grupo 7 COL
+global.nnnttt4 = 'https://chat.whatsapp.com/CmJj0wlJqAHCynm6eAHmAc' //Grupo 8 COL
+global.nnnttt5 = 'https://chat.whatsapp.com/CmJj0wlJqAHCynm6eAHmAc' //Grupo 9 COL
 global.paypal = 'https://www.paypal.me/Buitre01'
 global.asistencia = 'http://Wa.me/34604135921' //Dudas? escríbeme...
 
