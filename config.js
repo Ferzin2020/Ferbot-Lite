@@ -11,7 +11,7 @@ import { en, es, id, ar, pt } from './lib/idiomas/total-idiomas.js'
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a | Add the numbers to be Owner ⋅.━━━━ ⊰   
 
 global.owner = [
-['573215231131', 'Buitre-OFC ', true], 
+['5218142067796', '𝐹𝑒𝑟 𝑏𝑜𝑡-𝐿𝑖𝑡𝑒OFC ', true], 
 ['523316968621', '𝙊𝙬𝙣𝙚𝙧 (1) 💻', true],  
 ['34604135921', '𝙊𝙬𝙣𝙚𝙧 (2) 💻', true]  
 ]
@@ -29,7 +29,7 @@ global.prems = []
 //  en = English         pt = Português 
 //  ar = عرب  
 
-global.lenguajeGB = es  //Idioma de BuitreBot, Ejemplo: es | en | pt...
+global.lenguajeGB = es  //Idioma de 𝐹𝑒𝑟 𝑏𝑜𝑡-𝐿𝑖𝑡𝑒, Ejemplo: es | en | pt...
  
 //━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
@@ -91,54 +91,53 @@ global.moment = moment
 
 //⊱ ━━━━━.⋅ Sticker WM ⋅.━━━━ ⊰
 
-global.packname = 'Buitre Bot '
-global.author = 'Buitre Bot'
+global.packname = '𝐹𝑒𝑟 𝑏𝑜𝑡-𝐿𝑖𝑡𝑒 '
+global.author = '𝐹𝑒𝑟 𝑏𝑜𝑡-𝐿𝑖𝑡𝑒'
 
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
 global.official = [ // Agregate si eres Owner
-['34604135921', 'Buitre Dios 💻', 1], 
-['523316968621', '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],  
-['34604135921', '𝗖𝗿𝗲𝗮𝗱𝗼𝗿 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],
-['34604135921', '𝗦𝘂𝗽𝗽𝗼𝗿𝘁 𝗢𝗳𝗶𝗰𝗶𝗮𝗹', 1],
-['34604135921', '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿𝗮 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1]] 
+['5218142067796', 'fer dioz 💻', 1], 
+['5218142067796', '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],  
+['5218142067796', '𝗖𝗿𝗲𝗮𝗱𝗼𝗿 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],
+['5218142067796', '𝗦𝘂𝗽𝗽𝗼𝗿𝘁 𝗢𝗳𝗶𝗰𝗶𝗮𝗹', 1],
+['5218142067796', '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿𝗮 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1]] 
 
 global.mail = '' //agrega tú correo
-global.desc = '' //Buitre BOT md ACTIVO!!
-global.desc2 = '' //agrega una descripción larga (Solo se aplicará si su whasapp no tiene descripción)
-global.country = '' //agrega tú país ejemplo: 🇪🇨
+global.desc = '' //𝐹𝑒𝑟 𝑏𝑜𝑡-𝐿𝑖𝑡𝑒 ACTIVO!!
+global.desc2 = '𝐹𝑒𝑟 𝑏𝑜𝑡-𝐿𝑖𝑡𝑒 activo' //agrega una descripción larga (Solo se aplicará si su whasapp no tiene descripción)
+global.country = 'mx' //agrega tú país ejemplo: 🇪🇨
 
 global.vs = '1.0.1'
 global.vsJB = '3.0'
 
-global.gt = 'Buitre Bot '
-global.yt = 'https://youtube.com/@iambuitre'
-global.yt2 = 'https://youtube.com/@iambuitre'
-global.ig = 'https://youtube.com/@iambuitre'
-global.md = 'https://github.com/Buitreofc/Buitre-BotLite-MD#readme'
+global.gt = 'Ferbot '
+global.yt = 'https://www.youtube.com/@FerFerFer0.'
+global.yt2 = 'https://www.youtube.com/@FerFerFer0.'
+global.ig = 'https://youtube.com/@padronv31'
+global.md = 'https://github.com/Buitreofc/Buitre'
 global.fb = 'https://www.facebook.com/profile.php?id=100091780073268'
 
-global.nna = 'https://chat.whatsapp.com/CmJj0wlJqAHCynm6eAHmAc' //UPDATE GATABOT
-global.nna2 = 'https://chat.whatsapp.com/CmJj0wlJqAHCynm6eAHmAc' //Help
-global.nn = 'https://chat.whatsapp.com/CmJj0wlJqAHCynm6eAHmAc' //Grupo 1
-global.nnn = 'https://chat.whatsapp.com/CmJj0wlJqAHCynm6eAHmAc' //Grupo 2
-global.nnnt = 'https://chat.whatsapp.com/CmJj0wlJqAHCynm6eAHmAc' //Grupo 3
-global.nnntt = 'https://chat.whatsapp.com/CmJj0wlJqAHCynm6eAHmAc' //Grupo 4
-global.nnnttt = 'https://chat.whatsapp.com/CmJj0wlJqAHCynm6eAHmAc' //Grupo 5
-global.nnnttt2 = 'https://chat.whatsapp.com/CmJj0wlJqAHCynm6eAHmAc' //Grupo 6 COL
-global.nnnttt3 = 'https://chat.whatsapp.com/CmJj0wlJqAHCynm6eAHmAc' //Grupo 7 COL
-global.nnnttt4 = 'https://chat.whatsapp.com/CmJj0wlJqAHCynm6eAHmAc' //Grupo 8 COL
-global.nnnttt5 = 'https://chat.whatsapp.com/CmJj0wlJqAHCynm6eAHmAc' //Grupo 9 COL
-global.paypal = 'https://www.paypal.me/Buitre01'
-global.asistencia = 'http://Wa.me/34604135921' //Dudas? escríbeme...
+global.nna = 'https://chat.whatsapp.com/Ef0ippNYnhWKeKI1PkOfBb' //UPDATE GATABOT
+global.nna2 = 'https://chat.whatsapp.com/Ef0ippNYnhWKeKI1PkOfBb' //Help
+global.nn = 'https://chat.whatsapp.com/Ef0ippNYnhWKeKI1PkOfBb' //Grupo 1
+global.nnn = 'https://chat.whatsapp.com/Ef0ippNYnhWKeKI1PkOfBb' //Grupo 2
+global.nnnt = 'https://chat.whatsapp.com/Ef0ippNYnhWKeKI1PkOfBb' //Grupo 3
+global.nnntt = 'https://chat.whatsapp.com/Ef0ippNYnhWKeKI1PkOfBb' //Grupo 4
+global.nnnttt = 'https://chat.whatsapp.com/Ef0ippNYnhWKeKI1PkOfBb' //Grupo 5
+global.nnnttt2 = 'https://chat.whatsapp.com/Ef0ippNYnhWKeKI1PkOfBb' //Grupo 6 COL
+global.nnnttt3 = 'https://chat.whatsapp.com/Ef0ippNYnhWKeKI1PkOfBb' //Grupo 7 COL
+global.nnnttt4 = 'https://chat.whatsapp.com/Ef0ippNYnhWKeKI1PkOfBb' //Grupo 8 COL
+global.nnnttt5 = 'https://chat.whatsapp.com/Ef0ippNYnhWKeKI1PkOfBb' //Grupo 9 COL
+global.asistencia = 'http://Wa.me/528142067796' //Dudas? escríbeme...
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
 
 //⊱ ━━━━━.⋅ Información | Information ⋅.━━━━ ⊰
 
-global.wm = 'Buitre Bot Lite 🌻 : Buitre OFC '
-global.igfg = 'Buitre Bot Lite'
+global.wm = '𝐹𝑒𝑟 𝑏𝑜𝑡-𝐿𝑖𝑡𝑒 🌻 : Fer ofc '
+global.igfg = '𝐹𝑒𝑟 𝑏𝑜𝑡-𝐿𝑖𝑡𝑒'
 //global.wait = lenguajeGB.smsWait()
 global.nomorown = owner[0][0]
 
